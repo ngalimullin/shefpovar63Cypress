@@ -1,0 +1,16 @@
+{
+  "name": "shefpovar63",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.1",
+    "cypress-real-events": "^1.10.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}

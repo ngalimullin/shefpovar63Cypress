@@ -1,0 +1,8 @@
+import './headerLinkClick.cy.js'
+import './headerLinkName.cy.js'
+import './telephone.cy.js'
+import './mainInfoText.cy.js'
+import './inputText.cy.js'
+import './inputForm.cy.js'
+import './titelVerify.cy.js'
+import './apiTest.cy.js'
